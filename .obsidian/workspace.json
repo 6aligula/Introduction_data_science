@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "47f958d4e32587af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c498962a5d6acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e873583c4f06ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloque1Fundamentos de data science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "238e1d8a4b06e7fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b7153f3ce1922f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea3ecb6b180c9c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e29a2bf3ed84c313",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f782f9fb0ba61f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a993a13155415576",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e6eb68589d4963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110c1404d7ae8267",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bloque1Fundamentos de data science.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a59e4ab83b03bb89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bloque1Fundamentos de data science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d528eef30c996acb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe5cdbff312d61c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bloque1Fundamentos de data science.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9e873583c4f06ad2",
+  "lastOpenFiles": [
+    "Bloque2_roles_ámbitos_nombres_de_la_ciencia_de_datos.md",
+    "Bloque1Fundamentos de data science.md",
+    "Bloque1_fundamentos_data_science.pdf"
+  ]
+}
